@@ -1,4 +1,4 @@
-https://dev.azure.com/aaronandersonkiwi/pipelinetest/_apis/build/status/aaranderson.pipelines-java?branchName=master
+![image description or alt text](https://dev.azure.com/aaronandersonkiwi/pipelinetest/_apis/build/status/aaranderson.pipelines-java?branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
